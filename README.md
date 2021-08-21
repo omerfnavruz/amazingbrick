@@ -1,4 +1,4 @@
-# amazingbrick (2018)
+# AMAZING BRICK (2018)
 Note that this game concept is originally made by Ketchapp Games. I just tried to code this game in pure javascript.
 
 If you want to edit the code and make a new apk, you need to download the AmazingBrick.rar file to access the whole project folder.
