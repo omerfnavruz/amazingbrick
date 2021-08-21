@@ -8,3 +8,12 @@ Also, note that this game is made in 2018, and discontinued since 2019.
 Therefore, you may need to upgrade your Cordoba, Gradle and some of the plugins may not even be supported anymore.
 
 
+# Play This Game On Browser Or Android
+If you want to play this game:
+
+For android, simply download the AmazingBrick.apk file to your phone and install it.
+You need to enable "unknown resouces" option if you haven't.
+
+
+
+
