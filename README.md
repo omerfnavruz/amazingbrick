@@ -14,6 +14,8 @@ If you want to play this game:
 For android, simply download the AmazingBrick.apk file to your phone and install it.
 You need to enable "unknown resouces" option if you haven't.
 
+For browser, 
+
 
 
 
